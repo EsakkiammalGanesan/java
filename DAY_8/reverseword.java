@@ -21,6 +21,7 @@ public class reverseword {
                 print(s,start,end);
             }
         }
+        sn.close();
     }
     
 }

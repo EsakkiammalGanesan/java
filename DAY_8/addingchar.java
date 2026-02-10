@@ -18,6 +18,7 @@ public class addingchar {
             }
         }
         System.out.println(new String(b,0,j));
+        sn.close();
     }
     
 }

@@ -26,5 +26,6 @@ start++;
 end--;
         }
         System.out.println(new String(a));
+        sn.close();
     }
 }

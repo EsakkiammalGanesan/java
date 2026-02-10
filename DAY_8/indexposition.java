@@ -16,5 +16,6 @@ public class indexposition {
         if(count==0){
         System.out.println("No such key element present in the string");
         }
+        sn.close();
     }
 }
